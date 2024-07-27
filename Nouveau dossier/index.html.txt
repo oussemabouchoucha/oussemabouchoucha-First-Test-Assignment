@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="main-page">
+      <form class="frame-parent">
+        <div class="home-parent">
+          <div class="home">
+            <div class="all-pages-container">
+              <div class="all-pages">All pages</div>
+            </div>
+            <input class="home-child" alt="" type="checkbox" />
+          </div>
+          <div class="line-dropdown">
+            <div class="line-dropdown-child"></div>
+          </div>
+        </div>
+        <div class="page-headers-parent">
+          <div class="page-headers">
+            <div class="all-pages-headers">
+              <div class="all-pages1">Page 1</div>
+            </div>
+            <input
+              class="empty-headers-icon"
+              alt=""
+              type="checkbox"
+            />
+          </div>
+          <div class="page-headers1">
+            <div class="all-pages-wrapper">
+              <div class="all-pages2">Page 2</div>
+            </div>
+            <input
+              class="page-headers-child"
+              alt=""
+              type="checkbox"
+            />
+          </div>
+          <div class="page-headers2">
+            <div class="all-pages-frame">
+              <div class="all-pages3">Page 3</div>
+            </div>
+            <input
+              class="page-headers-item"
+              alt=""
+              type="checkbox"
+            />
+          </div>
+          <div class="page-headers3">
+            <div class="frame-div">
+              <div class="all-pages4">Page 4</div>
+            </div>
+            <input
+              class="page-headers-inner"
+              alt=""
+              type="checkbox"
+            />
+          </div>
+          <div class="page-headers4">
+            <div class="all-pages-wrapper1">
+              <div class="all-pages5">Page 5</div>
+            </div>
+            <input class="frame-icon" alt="" type="checkbox" />
+          </div>
+          <div class="page-headers5">
+            <div class="all-pages-wrapper2">
+              <div class="all-pages6">Page 6</div>
+            </div>
+            <input
+              class="page-headers-child1"
+              alt=""
+              type="checkbox"
+            />
+          </div>
+        </div>
+        <div class="line-dropdown-wrapper">
+          <div class="line-dropdown1">
+            <div class="line-dropdown-item"></div>
+          </div>
+        </div>
+        <div class="create-button-container">
+          <button class="button">
+            <div class="create-new-design">Done</div>
+          </button>
+        </div>
+      </form>
+    </div>
+  </body>
+</html>
